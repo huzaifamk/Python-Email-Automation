@@ -1,0 +1,1 @@
+An automation tool for sending marketing emails/notifications to your users. It is built using Plain Python code, integrated with Google Account App Passwords for sending emails from a single account.
